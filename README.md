@@ -6,6 +6,11 @@
 - MERN Stack 🛠️
 - Tailwind CSS 💻
 
+## 📋 My Work
+
+I'm a dedicated Frontend Developer specializing in React-based frontend and backend development. Proficient in Node.js, Express.js, MongoDB, and Tailwind CSS, I ensure robust interfaces for both organizations and user experiences. This represents my commitment and representation of my work, potentially garnering recommendations.
+
+
 
 ## 💻 Skills and Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
@@ -21,9 +26,6 @@
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabbir6644&show_icons=true&theme=radical)
-
-
-
 
 
 ## 🤝 Let's Connect!
